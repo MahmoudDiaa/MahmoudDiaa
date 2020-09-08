@@ -29,10 +29,10 @@ Faculty of Computer and Information Science.
 ### Experience:
 
 - 🔭 Android Engineer [@EKC](http://ekc-egypt.com) in Cairo, Egypt
-- 🔍 My 4 live apps: 
+- 🔍 My 3 live apps: 
   - [Al-tech Sales (Android App)](https://play.google.com/store/apps/details?id=com.ekc.sales)  <a href="https://play.google.com/store/apps/details?id=com.ekc.sales"><img src="https://img.shields.io/badge/-%2300EACE?style=flat&logo=google%20play&logoColor=white"/></a>
   - [SEC Data Collector (Android App)](https://play.google.com/store/apps/details?id=com.ekc.ekccollector)  <a href="https://play.google.com/store/apps/details?id=com.ekc.ekccollector"><img src="https://img.shields.io/badge/-%2300EACE?style=flat&logo=google%20play&logoColor=white"/></a>
-  - [EKC Tracking (Android App)](https://play.google.com/store/apps/details?id=com.hawaytak.app)  <a href="https://play.google.com/store/apps/details?id=com.hawaytak.app"><img src="https://img.shields.io/badge/-%2300EACE?style=flat&logo=google%20play&logoColor=white"/></a>
+  - [hawaytak (Android App)](https://play.google.com/store/apps/details?id=com.hawaytak.app)  <a href="https://play.google.com/store/apps/details?id=com.hawaytak.app"><img src="https://img.shields.io/badge/-%2300EACE?style=flat&logo=google%20play&logoColor=white"/></a>
 
 
 ---
