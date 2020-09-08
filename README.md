@@ -1,7 +1,6 @@
 
 <h1 align="center">Hey welcome, Mahmoud is here 👋</h1>
 <p align="center">
-   
     <a href="https://www.linkedin.com/in/mahmoud-diaa-6a3587133/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
   </p>
   
