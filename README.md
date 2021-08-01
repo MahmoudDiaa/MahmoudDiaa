@@ -39,7 +39,8 @@ Faculty of Computer and Information Science.
 
 ### Languages and Tools:
 
-<p align="center"><img src="https://www.vectorlogo.zone/logos/android/android-official.svg" alt="android" width="40" height="40" title ="Android"/> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" title ="Kotlin"/> <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="java" width="40" height="40" title ="Java"/> <img src="https://devicon.dev/devicon.git/icons/csharp/csharp-original.svg" alt="c" width="40" height="40" title ="C# Language"/>
+<p align="center"><img src="https://www.vectorlogo.zone/logos/android/android-official.svg" alt="android" width="40" height="40" title ="Android"/> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" title ="Kotlin"/> <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="java" width="40" height="40" title ="Java"/> 
+    <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="c" width="40" height="40" title ="C# Language"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" title ="Figma"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" title ="Git lab"/> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40" title ="Linux"/> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="40" height="40"  title ="MySQL"/> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" title ="Tenserflow"/></p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudDiaa&layout=compact&hide=html" alt="MahmoudDiaa" />
