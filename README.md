@@ -33,6 +33,9 @@ Faculty of Computer and Information Science.
   - [Al-tech Sales (Android App)](https://play.google.com/store/apps/details?id=com.ekc.sales)  <a href="https://play.google.com/store/apps/details?id=com.ekc.sales"><img src="https://img.shields.io/badge/-%2300EACE?style=flat&logo=google%20play&logoColor=white"/></a>
   - [SEC Data Collector (Android App)](https://play.google.com/store/apps/details?id=com.ekc.ekccollector)  <a href="https://play.google.com/store/apps/details?id=com.ekc.ekccollector"><img src="https://img.shields.io/badge/-%2300EACE?style=flat&logo=google%20play&logoColor=white"/></a>
   - [hawaytak (Android App)](https://play.google.com/store/apps/details?id=com.hawaytak.app)  <a href="https://play.google.com/store/apps/details?id=com.hawaytak.app"><img src="https://img.shields.io/badge/-%2300EACE?style=flat&logo=google%20play&logoColor=white"/></a>
+  - - [SSTS Driver (Android App)](https://play.google.com/store/apps/details?id=com.sudan_driver)  <a href="https://play.google.com/store/apps/details?id=com.sudan_driver"><img src="https://img.shields.io/badge/-%2300EACE?style=flat&logo=google%20play&logoColor=white"/></a>
+  - - [SSTS Owner (Android App)](https://play.google.com/store/apps/details?id=com.diaa.sudan_owner)  <a href="https://play.google.com/store/apps/details?id=com.diaa.sudan_owner"><img src="https://img.shields.io/badge/-%2300EACE?style=flat&logo=google%20play&logoColor=white"/></a>
+  - - [SSTS Officer (Android App)](https://play.google.com/store/apps/details?id=com.ekc.sudanofficers)  <a href="https://play.google.com/store/apps/details?id=com.ekc.sudanofficers"><img src="https://img.shields.io/badge/-%2300EACE?style=flat&logo=google%20play&logoColor=white"/></a>
 
 
 ---
